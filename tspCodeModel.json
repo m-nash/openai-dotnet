@@ -106848,6 +106848,7 @@
           "crossLanguageDefinitionId": "OpenAI.endpoint"
         }
       ],
+      "initializedBy": 1,
       "decorators": [],
       "crossLanguageDefinitionId": "OpenAI",
       "apiVersions": [],
@@ -107943,6 +107944,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Assistants",
           "apiVersions": [],
@@ -108555,6 +108557,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Audio",
           "apiVersions": [],
@@ -109248,6 +109251,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Batches",
           "apiVersions": [],
@@ -110502,6 +110506,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Chat",
           "apiVersions": [],
@@ -112153,6 +112158,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Containers",
           "apiVersions": [],
@@ -112357,6 +112363,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Embeddings",
           "apiVersions": [],
@@ -113081,6 +113088,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Files",
           "apiVersions": [],
@@ -115082,6 +115090,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.FineTuning",
           "apiVersions": [],
@@ -115444,6 +115453,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Graders",
           "apiVersions": [],
@@ -117924,6 +117934,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Evals",
           "apiVersions": [],
@@ -118990,6 +119001,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Responses",
           "apiVersions": [],
@@ -119506,6 +119518,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Images",
           "apiVersions": [],
@@ -120834,6 +120847,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Messages",
           "apiVersions": [],
@@ -121038,6 +121052,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Moderations",
           "apiVersions": [],
@@ -123600,6 +123615,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Runs",
           "apiVersions": [],
@@ -124400,6 +124416,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Threads",
           "apiVersions": [],
@@ -127894,6 +127911,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.VectorStores",
           "apiVersions": [],
@@ -128098,6 +128116,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Completions",
           "apiVersions": [],
@@ -128488,6 +128507,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Models",
           "apiVersions": [],
@@ -129055,6 +129075,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Realtime",
           "apiVersions": [],
@@ -129789,6 +129810,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI.Uploads",
           "apiVersions": [],
@@ -131919,6 +131941,7 @@
               "crossLanguageDefinitionId": "OpenAI.endpoint"
             }
           ],
+          "initializedBy": 0,
           "decorators": [],
           "crossLanguageDefinitionId": "OpenAI",
           "apiVersions": [],
